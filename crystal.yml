@@ -1,0 +1,7 @@
+name: wiki
+type: generator
+version: 0.1.0
+description: 'Wiki Generator for [Crystal](http://crystal.sh)'
+modules:
+  configurations:
+    studiotate: latest

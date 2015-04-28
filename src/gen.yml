@@ -1,0 +1,4 @@
+footer:
+  dest: _Footer.md
+sidebar:
+  dest: _Sidebar.md
