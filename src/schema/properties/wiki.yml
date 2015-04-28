@@ -1,7 +1,7 @@
 type: object
 properties:
   chapters:
-    type: object
+    type: array
     additionalProperties:
       type: object
       properties:
