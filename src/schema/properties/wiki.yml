@@ -2,7 +2,7 @@ type: object
 properties:
   chapters:
     type: array
-    additionalProperties:
+    items:
       type: object
       properties:
         pages:
@@ -11,6 +11,8 @@ properties:
             type: object
             properties:
               content:
+                type: string
+              page:
                 type: string
               title:
                 type: string
